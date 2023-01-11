@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/kernel_google_sunfish_drivers_staging_fts
+defaultbranch=android11-qpr1
